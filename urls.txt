@@ -1,0 +1,5 @@
+http://localhost:8000/access.log    
+http://localhost:8000/mydomain.log
+http://localhost:8000/myserver.log
+
+
